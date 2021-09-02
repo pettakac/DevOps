@@ -6,6 +6,7 @@ Jahodka je
 * Lahodna
 
 
-Toto je .
+Toto je koniec.
+
 
 A este *pridavok*.
