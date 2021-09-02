@@ -6,6 +6,6 @@ Jahodka je
 * Lahodna
 
 
-Toto je koniec.
+Toto je kkkkkoniec.
 
 A este *pridavok*.
