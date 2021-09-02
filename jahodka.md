@@ -2,7 +2,9 @@ Jahodka je
 
 
 * Chutna
-* Cervena
+
+* Ako malinka
+* Cervena atd.
 
 Toto je koniec.
 
