@@ -2,7 +2,6 @@
 
 * Prvy
 * Druhy
-* Treti
 * Stvrty
 
 **Super**
