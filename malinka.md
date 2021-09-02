@@ -1,8 +1,8 @@
 Toto je malinka
 
 
-* Cervena
-* Rovnaka
+* Zelena
+
 
 Taka ista ako jahodka.
 
