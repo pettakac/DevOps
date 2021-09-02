@@ -5,6 +5,7 @@ Jahodka je
 * Cervena
 * Lahodna
 
+
 Toto je koniec.
 
 A este *pridavok*.
