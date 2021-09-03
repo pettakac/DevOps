@@ -5,6 +5,11 @@ Jahodka je
 * Cervena
 * Lahodna
 
+#DALSIE OVOCIE
+* malina
+* pomaranc
+* melon
+
 
 Toto je koniec.
 
