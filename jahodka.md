@@ -8,5 +8,7 @@ Jahodka je
 
 Toto je koniec.
 
+Druhy, treti, stvrty koniec...
+
 
 A este *pridavok*.
