@@ -7,3 +7,5 @@
 **Super**
 
 **Sedi**
+
+* Zmena v README.
